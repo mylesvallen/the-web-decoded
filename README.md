@@ -9,10 +9,13 @@ Multi-Page: Mulitple Files, CONTENT rendered via SERVER
 
 ### Why React 
 
-UI state becomes very difficult to handle with vanilla js
-It helps us focus on Business Logic, and simpliflies maintenance. 
-Huge Ecosystem | Active Community | High Performance | Highly Scalable
-Amazing User Experience, because everything happens instantly!
+<br> UI state becomes very difficult to handle with vanilla js.
+<br> It helps us focus on Business Logic, and simpliflies maintenance. 
+<br> Huge Ecosystem. 
+<br> Active Community.
+<br> High Performance.
+<br> Highly Scalable.
+<br> Amazing User Experience, because everything happens instantly!
 
 ### React Alternatives
 

@@ -1,6 +1,5 @@
 # WEB DEVELOPMENT DECODED
-___
-Personal Notes on the philosophy of Web Development 
+_Personal Notes on the philosophy of Web Development_
 
 ### Single Page v Multi Page Apps
 Single-Page: 1 HTML file, CONTENT is (re)rendered via CLIENT SIDE 

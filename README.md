@@ -12,6 +12,7 @@ Multi-Page: Mulitple Files, CONTENT rendered via SERVER
 UI state becomes very difficult to handle with vanilla js
 It helps us focus on Business Logic, and simpliflies maintenance. 
 Huge Ecosystem | Active Community | High Performance | Highly Scalable
+Amazing User Experience, because everything happens instantly!
 
 ### React Alternatives
 

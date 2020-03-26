@@ -8,8 +8,7 @@ Single-Page: 1 HTML file, CONTENT is (re)rendered via CLIENT SIDE
 Multi-Page: Mulitple Files, CONTENT rendered via SERVER 
 
 ### Why React 
-
-<br> UI state becomes very difficult to handle with vanilla js.
+UI state becomes very difficult to handle with vanilla js.
 <br> It helps us focus on Business Logic, and simpliflies maintenance. 
 <br> Huge Ecosystem. 
 <br> Active Community.
